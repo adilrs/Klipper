@@ -1,0 +1,13 @@
+# Arquivos com problemas de permissão
+mainsail-config/
+printer_data/logs/
+
+# Arquivos temporários e backups
+backup/
+*.bak
+*.tmp
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
